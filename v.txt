@@ -1,1 +1,9 @@
-
+#include<stdio.h>
+int main()
+{
+  int a,b,c;
+  printf("enter the vale for a and b");
+  scanf("%d%d",&a\n&b);
+  c=a*b;
+  printf(" the value of a into b is %d",c);
+}  
