@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 int main()
 {
@@ -7,3 +8,15 @@ int main()
   c=a*b;
   printf(" the value of a into b is %d",c);
 }  
+=======
+#include<stdio.h>
+int main()
+{
+int a,b,temp;
+printf("enter the value:");
+scanf("%d%d,&a,&b);
+a=temp;
+b=a;
+b=temp;
+}
+>>>>>>> 0dbfb44bb65d41016994a3699f5a032b0db6e1ff
